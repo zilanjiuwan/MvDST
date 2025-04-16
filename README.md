@@ -15,7 +15,7 @@ train_nohistology.py: without histology information MvDST model.
 image_feature.py: Extract morphological information from histology image.
 
 ## Tutorial
-A jupyter Notebook of the tutorial for 10 $x$ Visium is accessible from : https://github.com/.
+A jupyter Notebook of the tutorial for 10 $x$ Visium is accessible from : https://github.com/zilanjiuwan/MvDST/tree/main/Tutorial.
 ## Compared spatial domain identification algorithms
 Algorithms that are compared include:
 
