@@ -19,7 +19,8 @@ A jupyter Notebook of the tutorial for 10 $x$ Visium is accessible from : https:
 
 Tutorial notebook for using MvDST integrate morphological features extracted by different models is available at: https://github.com/zilanjiuwan/MvDST/blob/main/Tutorial/Breast_Cancer.ipynb.
 
-MvDST is applicable to imaging-based ST Platform:https://github.com/zilanjiuwan/MvDST/blob/main/Tutorial/STARmap.ipynb.
+MvDST is applicable to imaging-based ST Platform: https://github.com/zilanjiuwan/MvDST/blob/main/Tutorial/STARmap.ipynb.
+
 ## System Requirements
 Python support packages (Python 3.9.18):
 scanpy, igraph, pandas, numpy, scipy, scanpy, anndata, sklearn, seaborn, torch, tqdm.
